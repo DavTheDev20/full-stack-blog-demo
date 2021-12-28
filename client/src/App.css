@@ -38,13 +38,13 @@ nav .standard-menu {
     width: 42%;
     background-color: gray;
     right: 0;
-    animation-duration: 1s;
+    animation-duration: 0.75s;
     animation-name: slide-in-from-right;
   }
 
   .mobile-menu ul {
     list-style: none;
-    margin: 25%;
+    margin: 30%;
   }
 
   .mobile-menu li {
